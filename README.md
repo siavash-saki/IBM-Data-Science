@@ -1,4 +1,3 @@
-# IBM-Data-Science
+# Toronto Neighborhoods Clustering
 
-
-Projects which I did during my IBM Data Science Course
+Segmentation and clustering neighborhoods of Toronto based on geolocation data from Foursquare
